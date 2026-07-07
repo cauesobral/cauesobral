@@ -100,8 +100,6 @@ API REST para gerenciamento de pacientes e consultas.
 ---
 </div>
 
----
-
 # 🎯 Atualmente estudando
 
 - Java 17+
