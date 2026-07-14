@@ -1,11 +1,10 @@
 <div align="center">
 
-# Olá! Meu nome é Cauê Sobral 👋
+# Olá! Meu nome é Cauê 👋
 
 ### Estudante de Ciência da Computação | Desenvolvedor de Software Full Stack
 
 Apaixonado por tecnologia, arquitetura de software e resolução de problemas.
-Atualmente participando do **Programa de Formação AGER**, aprofundando conhecimentos em desenvolvimento Java e construção de aplicações escaláveis.
 
 <br>
 
@@ -134,7 +133,6 @@ API REST para gerenciamento de pacientes e consultas.
 - Evoluir o projeto Sentinela
 - Desenvolver projetos completos utilizando Java
 - Consolidar conhecimentos em arquitetura de software
-- Ingressar como Desenvolvedor Back-end Trainee na AGE Technology
 
 ---
 
