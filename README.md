@@ -140,8 +140,4 @@ API REST para gerenciamento de pacientes e consultas.
 
 <div align="center">
 
-### "O trabalho duro vence o dom natural." - Rock Lee
-
-⭐ Obrigado pela visita!
-
 </div>
