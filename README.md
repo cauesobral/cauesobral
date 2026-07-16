@@ -25,8 +25,6 @@ Apaixonado por tecnologia, arquitetura de software e resolução de problemas.
 
 📚 Estudando continuamente arquitetura de software, boas práticas e desenvolvimento corporativo
 
-🏆 Campeão da XVIII Maratona de Programação Santo Scuderi
-
 🎯 Objetivo: atuar como Desenvolvedor Full Stack ou Back-end e evoluir para posições de alta responsabilidade técnica.
 
 ---
