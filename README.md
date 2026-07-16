@@ -2,7 +2,7 @@
 
 # Olá! Meu nome é Cauê 👋
 
-### Estudante de Ciência da Computação | Desenvolvedor de Software Full Stack
+### Desenvolvedor de Software Full Stack | Estudante de Ciência da Computação 
 
 Apaixonado por tecnologia, arquitetura de software e resolução de problemas.
 
@@ -21,13 +21,13 @@ Apaixonado por tecnologia, arquitetura de software e resolução de problemas.
 
 🚀 Participante do **Programa de Formação AGER**
 
-💻 Focado em desenvolvimento **Back-end Java**
+💻 Desenvolvedor Full Stack, mas focado em desenvolvimento **Back-end Java**
 
 📚 Estudando continuamente arquitetura de software, boas práticas e desenvolvimento corporativo
 
 🏆 Campeão da XVIII Maratona de Programação Santo Scuderi
 
-🎯 Objetivo: atuar como Desenvolvedor Back-end Java e evoluir para posições de alta responsabilidade técnica.
+🎯 Objetivo: atuar como Desenvolvedor Full Stack ou Back-end e evoluir para posições de alta responsabilidade técnica.
 
 ---
 
@@ -112,6 +112,7 @@ API REST para gerenciamento de pacientes e consultas.
 - Arquitetura de Software
 - SOLID
 - Design Patterns
+- Arch Linux e demais distribuições do Linux (Hobby)
 
 ---
 
@@ -121,7 +122,7 @@ API REST para gerenciamento de pacientes e consultas.
 
 🥇 1º Lugar — Maratona de Programação SBC (Sede Santos)
 
-🎓 Programa de Formação AGER
+🎓 Participar do Programa de Formação AGER
 
 👨‍🏫 Representante de Classe (1º, 2º e 3º Semestre)
 
@@ -130,8 +131,9 @@ API REST para gerenciamento de pacientes e consultas.
 # 📚 Objetivos para 2026
 
 - Concluir o Programa de Formação AGER
+- Ingressar no mercado de trabalho como desenvolvedor de software
 - Evoluir o projeto Sentinela
-- Desenvolver projetos completos utilizando Java
+- Desenvolver projetos completos utilizando Java e React.js
 - Consolidar conhecimentos em arquitetura de software
 
 ---
