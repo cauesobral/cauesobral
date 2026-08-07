@@ -59,7 +59,7 @@ Apaixonado por tecnologia, arquitetura de software e resolução de problemas.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,eclipse,pgadmin" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,eclipse" />
 
 </p>
 
@@ -130,7 +130,7 @@ API REST para gerenciamento de pacientes e consultas.
 
 - Concluir o Programa de Formação AGER
 - Ingressar no mercado de trabalho como desenvolvedor de software
-- Evoluir o projeto Sentinela
+- Evoluir hard-skills e soft-skills.
 - Desenvolver projetos completos utilizando Java e React.js
 - Consolidar conhecimentos em arquitetura de software
 
