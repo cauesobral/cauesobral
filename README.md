@@ -59,7 +59,7 @@ Apaixonado por tecnologia, arquitetura de software e resolução de problemas.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,idea,vscode,postman,eclipse,pgadmin" />
 
 </p>
 
