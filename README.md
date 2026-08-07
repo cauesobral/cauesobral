@@ -51,7 +51,7 @@ Apaixonado por tecnologia, arquitetura de software e resolução de problemas.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" />
 
 </p>
 
