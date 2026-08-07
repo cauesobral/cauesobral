@@ -35,7 +35,7 @@ Apaixonado por tecnologia, arquitetura de software e resolução de problemas.
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=java,python,cpp" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript" />
 
 </p>
 
